@@ -382,6 +382,8 @@ footer {
     padding: 20px;
     width: 100%;
     font-weight: 50;
+    border-radius: 5px;
+    
     /* Ajuste o peso da fonte para menos negrito */
     /* Outras propriedades podem ser ajustadas conforme necessário */
 }

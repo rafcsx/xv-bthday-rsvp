@@ -63,3 +63,5 @@ function createStarsAndMoon() {
 
 // Inicializar estrelas e lua
 createStarsAndMoon();
+
+document.getElementById('created-field').value = new Date().toISOString();
